@@ -171,14 +171,14 @@
 	   width:100%;
  }
  .fa-facebook{
-   font-size:40px;
+   font-size:40px !important;
    color:blue;
  }
  .fa-facebook:hover{
    color:#fff;
  }
  .fa-youtube{
-   font-size:40px;
+   font-size:40px !important;
    color:red;
  }
  .fa-youtube:hover{
