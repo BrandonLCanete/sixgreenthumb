@@ -36,8 +36,8 @@
 	  text-transform:uppercase;
 	}
 	a.active,a:hover{
-		 transition:0.5s;
-		 color:#f44336;
+	 	transition:0.5s;
+		color:#f44336;
 	}
 	.checkbtn{
 	  font-size:20px;
@@ -88,9 +88,8 @@
 	  }
 	}
 	.full{
-	background-repeat: no-repeat;
 	background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url('/pictures/dahon.jpg');
-    min-height: 100vh;
+	min-height: 100vh;
 }
 .text-box{
 	  width:90%;
