@@ -11,8 +11,6 @@
 	  font-family: 'Oswald', sans-serif;
 	  font-family: 'Lora', serif;
 	  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url('/pictures/dahon.jpg');
-      background-repeat: no-repeat;
-      background-size: cover;
 	}
 	nav{
 	  background:#000000;
