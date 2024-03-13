@@ -53,7 +53,7 @@
    display:none;
  }
  @media(max-width:952px){
-  .nav ul li a{
+  nav ul li a{
 	font-size:13px;
   }
  }
